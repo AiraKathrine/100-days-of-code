@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	
+
+}
+
+h1 {
+	font-family: Wire One;
+	color: #C1C7C9;
+	font-size: 40px;
+	margin-left: 100px;
+
+}
+
+.nav {
+	margin-top: -50px;
+	margin-right: 80px;
+	margin-left: 400px;
+	float: center;
+
+	
+
+	
+}
+.nav li  {
+	list-style-type: none;
+	margin-right: 20px;
+	margin-top: 2px;
+	display: inline-block;
+	color: #DADEDF;
+
+}
+
+h2 {
+	font-family: Arizonia;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 150px;
+	color: #131516;
+
+}
+
+h3 {
+	font-family: Wire One;
+	text-align: center;
+	font-size: 50px;
+	margin-top: -100px;
+	padding-bottom: 150px;
+	color: #373D3F;
+
+
+}
+
+.hero {
+	background-image: url(images/background.jpeg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+
+	
+}
+
+
+
+	
+
+
+form {
+	float: right;
+	margin-top: -37px;
+	margin-right: 100px;
+
+
+
+}
+
+footer {
+	font-family: Wire One;
+	text-align: center;
+}
+
+
