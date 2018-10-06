@@ -15,6 +15,13 @@
 
 **Thoughts** I started coding and I felt accomplished applying what I learned in actual.
 
+### Day 1: October 5, Friday
+**Today's Progress**: I created a second mock up using HTML and CSS
+
+**Today's Progress**: I struggled on floats and linking img src but it is worth it because at the end, I figured it out.
+
+**Thoughts** I started coding and I felt accomplished applying what I learned in actual.
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
