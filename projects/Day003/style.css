@@ -1,0 +1,126 @@
+h1 {
+	color: #373D3F;
+	font-family: 'Lobster';
+	font-size: 30px;
+	text-align: left;
+	margin-left: 160px;
+	
+
+	
+}
+
+.socmed {
+	list-style-type: none;
+	margin-top: -45px;
+	margin-left: 600px;
+
+}
+
+.socmed li {
+	display: inline-block;
+	margin-right: 10px;
+
+}
+
+
+.socmed img {
+	width: 20px;
+	height: 20px;
+}
+
+.nav {
+	font-family: 'Life Savers';
+	color: #0272A6;
+	list-style-type: none;
+	margin-top: -40px;
+	margin-left: 800px;
+
+
+}
+
+.nav li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.gallery {
+
+    float: left;
+    margin-top: 50px;
+    font-family: 'Life Savers';
+    color: #0272A6;
+
+}
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    margin-right: 50px;
+
+    
+}
+
+.gallery li {
+	display: inline-block;
+}
+
+
+.firstrow {
+	list-style-type: none;
+	margin-left: 160px;
+}
+
+.image1 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+.image2 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+.image3 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+.image4 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+.image5 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+.image6 .gallery {
+	text-align: center;
+	margin-right: 20px;
+}
+
+
+
+
+.gallery {
+
+    float: left;
+    width: 300px;
+    margin-top: 50px;
+    font-family: 'Life Savers';
+    color: #0272A6;
+
+}
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    margin-right: 50px;
+
+    
+}
+
+.gallery li {
+	display: inline-block;
+}
