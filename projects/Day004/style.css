@@ -1,0 +1,142 @@
+h1 {
+	font-family: 'Cookie';
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: -10px;
+	
+
+}
+
+.nav {
+	list-style-type: none;
+	text-align: center;
+	font-family: 'Barlow';
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+
+}
+
+.nav li {
+	display: inline-block;
+	margin-right: 20px;
+
+
+
+}
+
+.nav li a {
+	text-decoration: none;
+	color: #7F7F7F;
+
+
+}
+
+.soc-med img {
+	width: 15px;
+	height: 15px;
+
+}
+
+.soc-med {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	margin-left: -15px;
+
+}
+
+.soc-med li {
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: -10px;
+}
+
+.container img {
+	margin-right: 5px;
+}
+
+.first-image img {
+	
+	width: 295px;
+	height: 200px;
+}
+
+.second-image img {
+	width: 300px;
+	height: 200px;
+}
+
+.third-image img {
+	width: 295px;
+	height: 200px;
+}
+
+
+.fourth-image img {
+	width: 597px;
+	height: 300px;
+	
+}
+
+
+.fifth-image img {
+	width: 298px;
+	height: 300px;
+	
+}
+
+.sixth-image img {
+	width: 195px;
+	height: 300px;
+	
+}
+
+.seventh-image img {
+	width: 700px;
+	height: 300px;
+	
+}
+
+
+
+
+
+
+
+.first-row {
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+.second-row {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.third-row {
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+footer {
+	text-align: center;
+	font-family: 'Barlow';
+
+
+}
+
+
+
+
+
+
+
+
+
+
