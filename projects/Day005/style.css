@@ -1,0 +1,152 @@
+body {
+	background-color: #F2F3F4;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.container {
+	max-width: 1170px;
+	margin: auto; /*  center the container */
+
+
+
+} 
+
+h1 {
+	text-align: center;
+	font-family: 'Special Elite';
+	color: #FF9900;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+img {
+	max-width: 100%;
+
+}
+
+.nav {
+	list-style-type: none; /* remove bullet points */
+	margin: 0;	/* reset default margin */
+	padding: 0; /* reset default padding */
+	text-align: center;
+	padding-bottom: 5px;
+	
+	
+
+}
+
+.nav li {
+
+	display: inline-block;
+	font-family: 'Mukta Vaani';
+	width: 20%;
+	float: left;
+	background-color: #27AEE3;
+
+
+
+
+}
+
+.nav li a {
+	text-decoration: none;
+	color: #ffffff;
+	line-height: 10px;
+
+}
+
+
+
+.nav .home {
+	background-color: #FF9900;
+	line-height: 50px;
+
+
+}
+
+.nav .works {
+	background-color: #9FDA40;
+	line-height: 50px;
+
+
+}
+
+.nav .about {
+	background-color: #DA2C43;
+	line-height: 50px;
+
+
+}
+
+.nav .services {
+	background-color: #27AEE3;
+	line-height: 50px;
+
+
+}
+
+.nav .portfolio {
+	background-color: #8359A3;
+	line-height: 50px;
+
+
+}
+
+.gallery {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 400px;
+
+}
+
+.gallery p {
+	width: 23%;
+	color: #ffffff;
+	font-family: 'Mukta Vaani';
+	text-align: center;
+	padding: 30px 10px 30px 10px;
+
+
+}
+
+.first-column  {
+	background-color: #9FDA40;
+	margin-right: 2%;
+	
+
+}
+
+.second-column  {
+	background-color: #DA2C43;
+	margin-right: 2%;
+	
+
+	
+}
+
+.third-column  {
+	background-color: #27AEE3;
+	margin-right: 2%;
+
+	
+}
+
+.fourth-column  {
+	background-color: #FF9900;
+	
+	
+	
+}
+
+footer {
+	text-align: center;
+	font-family: 'Mukta Vaani';
+	text-align: center;
+}
+
