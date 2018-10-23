@@ -32,6 +32,12 @@
 
 **Thoughts** I am more familiar with divs and other codes
 
+## Day ^: October 23, Tuesday
+**Today's Progress**: I applied what I learned on grid, I am little more familiar with it. I needed to practice more to familiarize myself.
+
+**Thoughts** I was not able to code for a couple of days because I needed to go somewhere. But I am back on track!
+
+
 
 
 
